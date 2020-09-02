@@ -1,0 +1,8 @@
+.card{
+    width:100%;
+    border:1px solid white;
+    background-color: white;
+    box-shadow: 0 0 5px 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
